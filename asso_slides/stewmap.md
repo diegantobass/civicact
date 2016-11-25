@@ -72,8 +72,11 @@ Split associations along a timeline containing every major elections we had in F
 
 -
 
+<iframe width="100%" height="520" frameborder="0" src="https://diegoantolinosbasso.carto.com/viz/3966e58e-b341-11e6-b562-0e3ff518bd15/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe><br>
+(Disclaimer : only 4053 associations in the Grand Paris)
 
+-
 
-
-
+###Thanks
+Slides availables at <br> diegantobass.github.io/civicact/asso_slides
 
